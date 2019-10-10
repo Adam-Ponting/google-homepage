@@ -1,6 +1,9 @@
 Starting The Odin Project with Ubuntu. Practising Linux and git from the command line.
+
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
 Your branch is based on 'origin/master', but the upstream is gone. Fixed with git push origin master
+
 1. Create new repo on github.com
 1. Create folder $ touch mkdir folder_name
 1. Copy Git clone SSH link.
