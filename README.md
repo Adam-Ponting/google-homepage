@@ -2,7 +2,7 @@ Starting The Odin Project with Ubuntu. Practising Linux and git from the command
 
 Task is to create a version of [Google's](https://imgur.com/5oDXocP) search page.
 
-This is [My Version](https://imgur.com/wl1rkcs).
+This is my [version](https://imgur.com/wl1rkcs) (screenshot) or [hosted](https://mada75.github.io/google-homepage/).
 
 Formatting from [github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
