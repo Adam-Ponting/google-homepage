@@ -1,0 +1,83 @@
+body {
+    background: #f6f8f8;
+    box-sizing: border-box;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+}
+.nav-list {
+    /* make row, center, add margin from edge */
+    display: flex;
+    align-items: center;
+    margin: 1em 2em;
+}
+.nav-link {
+    /* margin between links */
+    margin: .25em .1em;
+}
+.align-right {
+    /* flexbox - item auto fills all margin on its left */
+    margin-left: auto;
+}
+.img-apps {
+    /* inline-block to add width/height and set li's in line */
+    /* position moves image under icon */
+    display: inline-block;
+    background-image: url(http://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-position: -124px -38px;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+}
+.user-image {
+    /* inline-block to add width/height and set li's in line */
+    /* set size to square to make a circle with 50% radius */
+    display: inline-block;
+    padding: 0;
+    background-size: 32px 32px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-image: url(https://lh3.googleusercontent.com/-Wm8qlUbdfBU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcVFQhcMdcFEjgnHD15oOFxBfvknA.CMID/s64-c/photo.jpg);
+    width:32px;
+    height: 32px;
+}
+
+
+a {
+    padding: 0 .5em;
+    margin: 0;
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    text-decoration: underline;
+}
+ul {
+    list-style-type :none;
+    margin: 0;
+    padding: 0
+
+}
+
+.google-logo {
+    height: 92px;
+    width: 272px;
+}
+.center-content {
+    display: flex;
+    flex-direction: column;;
+}
+.input-search {
+    border: 1px solid #dfe1e5;  
+      border-radius: 5px;
+    line-height: 2;
+
+    
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%
+}
