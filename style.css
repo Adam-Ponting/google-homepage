@@ -118,6 +118,7 @@ ul {
 }
 .svg-icon{
     height:20px;
+    width: 20px;
     position:relative;
     left: 35px;
 }
